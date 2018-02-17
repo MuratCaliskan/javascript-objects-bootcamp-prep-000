@@ -1,4 +1,4 @@
-var meals = newObject();
+var playlist = newObject();
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle;
